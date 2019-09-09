@@ -82,13 +82,14 @@ The radio is powered with 120V power outlet. It transforms the voltage from 120v
 **d. Is information stored in your device? Where? How?**  
 Preset radio channels are stored in the radio. This information is stored inside the micro-controller.
 
-### 2. Using your schematic, figure out where a good point would be to hijack your device and implant an LED.
-
+### 2. Using your schematic, figure out where a good point would be to hijack your device and implant an LED.  
+![Image of schematic](https://github.com/ZhenweiZhang1995/IDD-Fa18-Lab1/blob/master/image3.JPG)  
 **Describe what you did here.**
 
 ### 3. Build your light!
 
 **Make a video showing off your Frankenlight.**  
 [My Frankenlight on the radio](https://youtu.be/modgPDKQcg8)
+![Image of PC Board of the radio](https://github.com/ZhenweiZhang1995/IDD-Fa18-Lab1/blob/master/image2.jpeg)
 
 **Include any schematics or photos in your lab write-up.**
