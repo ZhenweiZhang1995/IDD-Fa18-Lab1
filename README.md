@@ -62,8 +62,8 @@ On Line 18, change the PIM from 9 to 11
 `led = 9`  to `led = 11`
 
 **b. What is analogWrite()? How is that different than digitalWrite()?**  
-*digitalWrite:*The digitalWrite() method sets the value of a digital pin as HIGH or LOW.
-*The analogWrite()* method sets the value of a PWM output pin. The analogWrite() is on a scale of 0 - 255, such that analogWrite(255) requests a 100% duty cycle (always on), and analogWrite(127) is a 50% duty cycle (on half the time).
+The digitalWrite() method sets the value of a digital pin as HIGH or LOW.  
+The analogWrite() method sets the value of a PWM output pin. The analogWrite() is on a scale of 0 - 255, such that analogWrite(255) requests a 100% duty cycle (always on), and analogWrite(127) is a 50% duty cycle (on half the time).
 
 
 ## Part F. FRANKENLIGHT!!!
